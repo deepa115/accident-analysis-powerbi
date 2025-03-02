@@ -38,7 +38,7 @@ This Power BI dashboard provides a comprehensive analysis of road accidents, inc
 
 ## 📂 Project Structure
 - `Accident Project.pbix` - The main Power BI file.
-- `Data Sources/` - Folder containing raw and processed data.
+- `Road Accident Data/` - Folder containing raw and processed data.
 - `README.md` - Project documentation.
 - `Accident Analysis Project/` - Sample images of the Power BI dashboard.
 
